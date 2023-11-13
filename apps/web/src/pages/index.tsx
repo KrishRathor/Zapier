@@ -1,7 +1,10 @@
+import { Card } from "ui";
+
 export default function Home() {
   return (
     <div>
-      hi there bi there
+      hi
+      <Card />
     </div>
   )
 }
