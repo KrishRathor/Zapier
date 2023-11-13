@@ -1,10 +1,10 @@
-import { Card } from "ui";
+// import { Card } from "ui";
 
 export default function Home() {
   return (
     <div>
       hi
-      <Card />
+      {/* <Card /> */}
     </div>
   )
 }
